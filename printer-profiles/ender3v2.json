@@ -1,0 +1,17 @@
+{
+  "name": "Creality Ender 3 V2",
+  "bed_size": [220, 220, 250],
+  "nozzle_diameter": 0.4,
+  "recommended_layer_height": 0.2,
+  "max_model_size": [200, 200, 100],
+  "center_offset": [110, 110, 0],
+  "supports_needed": true,
+  "base_thickness": 2.0,
+  "default_settings": {
+    "print_speed": 50,
+    "infill_density": 20,
+    "wall_thickness": 1.2,
+    "top_bottom_thickness": 0.8
+  },
+  "notes": "Conservative build volume to ensure successful prints. Supports recommended for overhangs >45 degrees."
+}

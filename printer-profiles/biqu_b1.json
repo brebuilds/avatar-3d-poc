@@ -1,0 +1,17 @@
+{
+  "name": "BIQU B1",
+  "bed_size": [235, 235, 270],
+  "nozzle_diameter": 0.4,
+  "recommended_layer_height": 0.2,
+  "max_model_size": [215, 215, 120],
+  "center_offset": [117.5, 117.5, 0],
+  "supports_needed": true,
+  "base_thickness": 2.0,
+  "default_settings": {
+    "print_speed": 50,
+    "infill_density": 20,
+    "wall_thickness": 1.2,
+    "top_bottom_thickness": 0.8
+  },
+  "notes": "Slightly larger build volume than Ender 3 V2. Same recommended settings for avatar figurines."
+}
